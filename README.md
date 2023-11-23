@@ -34,7 +34,8 @@ train_im_600.sh
 
 ```
 ### Open-Source
-Some opensorces repository we refer to 
+In the development of HGENNAS, we referred to several open-source repositories. These projects have contributed either directly or indirectly to our understanding and implementation. We highly recommend checking out these repositories for further insights:
+
 ```
 https://github.com/idstcv/ZenNAS
 https://github.com/SLDGroup/ZiCo
